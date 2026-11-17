@@ -1,4 +1,4 @@
-# Procedural-3D-City-Generation
+# Procedural 3D "City" Generation
 A small C++ project exploring procedural generation and real-time rendering of 3D urban environments using OpenGL.
 
 The application generates a simple city-like environment consisting of buildings with randomized positions and dimensions. Each building features textured surfaces, creating a basic 3D urban landscape.
